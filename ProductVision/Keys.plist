@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>awsPKey</key>
+	<string>iryC4E0zSPkuiOeUkxH+sxPU271joY/jpPFIv1Oq</string>
+	<key>AWSAccessKeyId</key>
+	<string>AKIAI5UXYO3ULRMQ56TQ</string>
 	<key>googleCloudAPIKey</key>
 	<string>AIzaSyCCD5M2qiHWoi5eA2UVrgmcRipZGK8hxGU</string>
 </dict>
